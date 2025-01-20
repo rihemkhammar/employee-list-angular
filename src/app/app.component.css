@@ -1,0 +1,15 @@
+.table {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    
+    th {
+      background-color: #f8f9fa;
+      
+      &:hover {
+        background-color: #e9ecef;
+      }
+    }
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
